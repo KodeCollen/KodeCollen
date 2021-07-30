@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KodeCollen
 - 👀 I’m interested in ...learng more  about coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...digital 
+- 💞️ I’m looking to collaborate 
 - 📫 How to reach me ... via kodeCollen@gmail.com
 
 <!---
